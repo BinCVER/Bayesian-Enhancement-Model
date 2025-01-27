@@ -1,6 +1,6 @@
 # Bayesian Enhancement Model
 
-This is the official code for the paper [Bayesian Enhancement Models for One-to-Many Mapping in Image Enhancement](https://openreview.net/pdf?id=jJJOoLVAEm)
+This is the official code for the paper [Bayesian Neural Networks for One-to-Many Mapping in Image Enhancement](https://arxiv.org/pdf/2501.14265)
 
    
   
