@@ -263,14 +263,12 @@ python3 basicsr/train.py --opt Options/IE_UNet_UIEB.yml
 ## Citation
 
 ```shell
-@inproceedings{anonymous2024bayesian,
-    title={Bayesian Enhancement Models for One-to-Many Mapping in Image Enhancement},
-    author={Anonymous},
-    booktitle={Submitted to The Thirteenth International Conference on Learning Representations},
-    year={2024},
-    url={https://openreview.net/forum?id=jJJOoLVAEm},
-    note={under review}
-    }
+@article{huang2025bayesian,
+  title={Bayesian Neural Networks for One-to-Many Mapping in Image Enhancement},
+  author={Huang, Guoxi and Anantrasirichai, Nantheera and Ye, Fei and Qi, Zipeng and Lin, RuiRui and Yang, Qirui and Bull, David},
+  journal={arXiv preprint arXiv:2501.14265},
+  year={2025}
+}
 ```
 
 
