@@ -4,7 +4,7 @@ import torch.distributions as distributions
 from itertools import repeat
 import collections
 from abc import abstractmethod
- 
+
 class BaseLayer_(nn.Module):
     def __init__(self):
         super().__init__()
