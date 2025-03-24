@@ -25,6 +25,7 @@ This is the official code for the paper [Bayesian Neural Networks for One-to-Man
 
 
 ## News 💡
+- **2025.03.24** We released the pretrained models for NTIRE 2025 Low Light Image Enhancement Challenge. 
 - **2025.03.04** The Code for BEM version 2 has been released. 
 - **2024.10.31** Masked Image Modeling (MIM) is implemented to enhance our Stage-II network. We haven’t evaluated its effectiveness, and our team has no future plan to inlcude MIM into the current paper or draw new papers for it. We welcome anyone interested in continuing this research and invite discussions.
 - **2024.10.31** The model checkpoints are released.  
