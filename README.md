@@ -109,8 +109,7 @@ git clone git@github.com:Anonymous1563/Bayesian-Enhancement-Model.git
 
 ```bash
 cd Bayesian-Enhancement-Model
-pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url
-https://download.pytorch.org/whl/cu117
+pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
 
 pip install -r requirements.txt
 
