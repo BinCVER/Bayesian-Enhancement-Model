@@ -40,12 +40,14 @@ This is the official code for the paper [Bayesian Neural Networks for One-to-Man
 ### Deterministic NN vs Bayesian NN:
 <p align="center"> <img src='./assets/dnnvsbnn.png' align="center" > </p>
 
+### Two-Stage Pipeline V2:
+<p align="center"> <img src='./assets/twostagev2.png' align="center" > </p>
+
 ### Two-Stage Pipeline V1:
 <p align="center"> <img src='./assets/pipeline.png' align="center" > </p>
 
 
-### Two-Stage Pipeline V2:
-<p align="center"> <img src='./assets/pipelinev2.png' align="center" > </p>
+
 
 
 ## Checkpoints
