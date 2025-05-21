@@ -102,7 +102,7 @@ conda activate BEM
 #### Clone Repo
 
 ```bash
-git clone git@github.com:Anonymous1563/Bayesian-Enhancement-Model.git
+git clone https://github.com/BinCVER/Bayesian-Enhancement-Model.git
 ```
 
 #### Install Dependencies
