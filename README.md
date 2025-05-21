@@ -19,11 +19,7 @@ This is the official code for the paper [Bayesian Neural Networks for One-to-Man
     <img src="assets/input_demo.png" align="center" width="100%">
 </p>
 
-### Process
-<p align="center"> <img src='assets/pred_process.png' align="center" > </p> 
-&nbsp;   
-
-
+ 
 ## News 💡
 - **2025.03.24** We released the pretrained models for [NTIRE 2025 Low-light Image Enhancement Challenge](https://codalab.lisn.upsaclay.fr/competitions/21636). 
 - **2025.03.04** The Code for BEM version 2 has been released. 
@@ -35,17 +31,9 @@ This is the official code for the paper [Bayesian Neural Networks for One-to-Man
 ## HD Visulisation
 <p align="center"> <img src='assets/vis_hd.png' align="center" > </p>
 
-##  Proposed Bayesian Enhancement Model
+##  Bayesian Enhancement Model
 
-### Deterministic NN vs Bayesian NN:
-<p align="center"> <img src='./assets/dnnvsbnn.png' align="center" > </p>
-
-### Two-Stage Pipeline V2:
 <p align="center"> <img src='./assets/twostagev2.png' align="center" > </p>
-
-### Two-Stage Pipeline V1:
-<p align="center"> <img src='./assets/pipeline.png' align="center" > </p>
-
 
 
 
