@@ -29,10 +29,7 @@ tensorboard==2.17.0
 tensorboardX==2.6.2.2
 timm==0.4.12
 tokenizers==0.19.1
-torch==1.13.1+cu117
-torchaudio==0.13.1+cu117
 torchmetrics==1.4.1
-torchvision==0.14.1+cu117
 tqdm==4.66.4
 transformers==4.42.4
 triton==2.3.1
